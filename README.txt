@@ -1,4 +1,6 @@
-This is an in-progress program to find parallel lines on a price-time graph
+This is a tool for analysing graphs, by adding 2 lines that the value bounces to over time.
+
+this is a demo file that generates a random graph and draws on the lines.
 
 what to expect:
 - not too much in general
